@@ -1,0 +1,2 @@
+# student.bridgew.markrov
+This is a project I did in Summer 2019 at Bridgewater State University for Data Structures and Algorithms. Java program that reads a plain text file, using adjacency list to record all original words and the subsequent word or phrase after every occurrence of the keyword. Generate random original text that uses probability and adjacency list to mimics the writing of the text file
